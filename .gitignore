@@ -1,0 +1,16 @@
+run.txt
+
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment Variables
+.env
+
+# Other files
+.DS_Store
+
